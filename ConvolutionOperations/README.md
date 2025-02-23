@@ -40,7 +40,7 @@ python question_2.py
 - **NumPy and TensorFlow outputs** are compared for correctness.  
 
 📌 **Note:** Open the **question_2.ipynb** notebook to view the **executed output**.  
-📍 **Path:** `Question_2_Convolution_Operations/question_2.ipynb`  
+📍 **Path:** `ConvolutionOperations/question_2.ipynb`  
 
 ## **Observations**  
 1. **Stride & Padding Impact:**  
@@ -52,7 +52,7 @@ python question_2.py
 
 ## **Remarks**  
 - The code is **well-structured** and **properly commented**.  
-- Use **`Question_2_Convolution_Operations/question_2.ipynb`** to view the **executed code in Google Colab**.  
+- Use **`ConvolutionOperations/question_2.ipynb`** to view the **executed code in Google Colab**.  
 - **Attaching `question_2.py` script for reference.**  
 
 ## **Contact**  
@@ -60,4 +60,4 @@ python question_2.py
 **Email:** hxg07240@ucmo.edu
 **Student-ID:** 700780724
 
-📍 **Code Path:** `Question_2_Convolution_Operations/question_2.ipynb`  
+📍 **Code Path:** `ConvolutionOperations/question_2.ipynb`  
